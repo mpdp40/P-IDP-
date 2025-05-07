@@ -1,0 +1,7 @@
+{
+  "name": "Ferremax",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
